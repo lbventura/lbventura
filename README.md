@@ -4,7 +4,7 @@
 - 💼 **Current focus:** Staff Data Engineer at Blue Yonder, working on distributed systems, real-time and cloud-native inference.
 - 🛠️ **Tools:** Python, Snowflake, Docker, Kubernetes, Copilot CLI.
 - 🚀 **Projects:** Maintainer of [mlb-airflow-data-pipeline](https://github.com/lbventura/mlb-airflow-data-pipeline), a tool to extract and curate MLB team and player data. Also an avid notetaker, see these in [Notes](https://github.com/stars/lbventura/lists/notes).
-- 🌱 **Interests:** Currently studying AI-ML tools for drug development. For more information, see [protein-hmm](https://github.com/lbventura/protein-hmm) and [drug-discovery-notes](https://github.com/lbventura/drug-discovery-notes).
+- 🌱 **Interests:** Currently studying AI-ML tools for drug development. For more information, see [protein-hmm](https://github.com/lbventura/protein-hmm) and [drug-discovery-notes](https://github.com/lbventura/drug-discovery-notes). Also interested on how AI agents can improve productivity without negatively impacting human reasoning and creativity.
 
 Let us connect on [LinkedIn](https://www.linkedin.com/in/luis-ventura-phd)!
 
