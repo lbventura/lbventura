@@ -2,7 +2,7 @@
 
 - ⚛️ **Background:** PhD in Physics from University of Aveiro, Portugal in 2021. Experience in Finance, Data Science/Engineering and Machine Learning.
 - 💼 **Current focus:** Staff Data Engineer at Blue Yonder, working on distributed systems, real-time and cloud-native inference.
-- 🛠️ **Tools:** Python, Snowflake, Docker, Kubernetes, Copilot CLI.
+- 🛠️ **Tools:** Python, Snowflake, Docker, Kubernetes, Copilot CLI and Codex.
 - 🚀 **Projects:** Maintainer of [mlb-airflow-data-pipeline](https://github.com/lbventura/mlb-airflow-data-pipeline), a tool to extract and curate MLB team and player data. Also an avid notetaker, see these in [Notes](https://github.com/stars/lbventura/lists/notes).
 - 🌱 **Interests:** Currently studying AI-ML tools for drug development. For more information, see [protein-hmm](https://github.com/lbventura/protein-hmm) and [drug-discovery-notes](https://github.com/lbventura/drug-discovery-notes). Also interested on how AI agents can improve productivity without negatively impacting human reasoning and creativity.
 
